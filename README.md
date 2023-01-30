@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshu1201 
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Machine Learning,Python,AWS.
+- 🌱 I’m currently learning cloud Computing
 - 📫 How to reach me my gmailid - guptaanshuorai@gmail.com
 
 <!---
